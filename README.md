@@ -7,7 +7,7 @@ When the user clicks the button, the background color of the page changes random
 ---
 
 ## File Structure
-DynamicColorChanger_Assignment/
+DynamicColorChanger/
 │
 ├── index.html → Main structure of the webpage
 ├── style.css → Styling and layout
@@ -39,5 +39,6 @@ DynamicColorChanger_Assignment/
 
 ---
 The site is live at https://shreyashi439.github.io/DynamicColorChanger/
+
 
 
