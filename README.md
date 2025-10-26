@@ -38,5 +38,6 @@ DynamicColorChanger_Assignment/
 - JavaScript (Vanilla JS)
 
 ---
+The site is live at https://shreyashi439.github.io/DynamicColorChanger/
 
 
