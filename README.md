@@ -39,7 +39,4 @@ DynamicColorChanger_Assignment/
 
 ---
 
-## Author
-**Name:** Shreya Patil  
-**Role:** Web Development Intern (Assignment Submission)  
-**Date:** October 2025
+
